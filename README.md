@@ -1,7 +1,7 @@
 # Machine Learning Deep Learning project
 > A collection of hands-on machine learning and deep learning projects, including image classification, text classification, and summarization with modern frameworks (TensorFlow, PyTorch, HuggingFace)
 
-**Live Demo:** [View Project on GitHub Pages](https://<jean-granger>.github.io/Machine-Learning---Deep-Learning-project/)
+**Live Demo:** [View Project on GitHub Pages](https://jean-granger.github.io/Machine-Learning---Deep-Learning-project/)
 
 ## Overview
 This repository contains three end-to-end machine learning and deep learning projects designed to illustrate practical AI workflows from dataset preparation to model evaluation and deployment readiness.
