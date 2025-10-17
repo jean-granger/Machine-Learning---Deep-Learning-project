@@ -10,3 +10,36 @@ Each notebook demonstrates a different aspect of data-centric AI and model engin
 - Text Summarization (BART Model): Generates concise summaries from long passages using facebook/bart-large-cnn and Hugging Face Transformers.
 
 ## Example Results
+The executed versions of each notebook with visible outputs are available in the `exports/` folder:
+- **Image Classification (CNN)** → [`exports/image_classification_cnn.html`](exports/image_classification_cnn.html)
+- **Text Classification (DistilBERT)** → [`exports/text_classification_bert.html`](exports/text_classification_bert.html)
+- **Text Summarization (BART)** → [`exports/text_summarization_transformer.html`](exports/text_summarization_transformer.html)
+
+These HTML exports include model summaries, training progress, evaluation metrics, and visualizations.
+
+## Requirements
+To run any notebook locally:
+```bash
+pip install tensorflow torch transformers datasets matplotlib scikit-learn
+```
+## Notes
+- All notebooks are designed to run independently.
+- The exported HTML files are recommended for quick viewing without re-running models.
+
+## Future Work
+
+- Extend the text summarization task with domain-specific datasets (e.g., news or legal text).
+- Add experiment tracking with MLflow or Weights & Biases.
+- Explore lightweight model deployment using FastAPI or Streamlit.
+
+## Acknowledgement 
+
+This work leverages open-source AI frameworks and datasets, including:
+
+- [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/) for deep learning frameworks.
+- [Hugging Face Transformers](https://huggingface.co/transformers/) for pre-trained models and NLP tools.
+- [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) and [IMDB](https://ai.stanford.edu/~amaas/data/sentiment/) datasets for training and evaluation.
+
+## Author
+Jean Granger - 
+[LinkedIn](https://linkedin.com/in/ange-granger-jean-365b94320) — jeannange001@gmail.com - aeagsjean@st.knust.edu.gh
