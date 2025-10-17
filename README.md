@@ -13,9 +13,9 @@ Each notebook demonstrates a different aspect of data-centric AI and model engin
 
 ## Example Results
 The executed versions of each notebook with visible outputs are available at:
-- [Image Classification (CNN)](https://<jean-granger>.github.io/Machine-Learning---Deep-Learning-project/exports/image_classification_cnn.html)
-- [Text Classification (DistilBERT - Sentiment Analysis)](https://<jean-granger>.github.io/Machine-Learning---Deep-Learning-project/exports/text_classification_bert.html)
-- [Text Summarization (BART)](https://<jean-granger>.github.io/Machine-Learning---Deep-Learning-project/exports/text_summarization_transformer.html)
+- [Image Classification (CNN)](https://jean-granger.github.io/Machine-Learning---Deep-Learning-project/exports/image_classification_cnn.html)
+- [Text Classification (DistilBERT - Sentiment Analysis)](https://jean-granger.github.io/Machine-Learning---Deep-Learning-project/exports/text_classification_bert.html)
+- [Text Summarization (BART)](https://jean-granger.github.io/Machine-Learning---Deep-Learning-project/exports/text_summarization_transformer.html)
 
 These outputs include model summaries, training progress, evaluation metrics, and visualizations.
 
